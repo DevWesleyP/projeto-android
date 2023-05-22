@@ -83,6 +83,11 @@ nav > a:hover {
     color: var(--cor06);
 }
 
+@media (max-width: 576px) {
+    .cabecalho {
+        text-align: center;
+}
+}
 main {
     min-height: 300px;
     max-width: 1000px;
